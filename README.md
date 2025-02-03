@@ -8,11 +8,10 @@ This RMG Dataset typically consists of data related to the operations, managemen
 ## Problem Statement
 The Ready-Made Garment (RMG) industry operates in a highly competitive and dynamic environment, where maintaining profitability and meeting customer demands are critical challenges. The dataset, which includes Order Sheet, Shipment Sheet, and Stock Sheet, reveals several key areas of concern.
 ## Factors Determining the Growth
-- Fluctuating Customer Orders
--Inventory and Stock Management
-- Order Fulfillment and Shipment Delays
-- Dependency on Few Customers
-- Global Competition and Market Challenges
+- Fluctuating customer orders
+-Inventory and stock management
+- Order fulfillment and shipment delays
+- Dependency on few customers
 
 ![image](https://github.com/user-attachments/assets/def98e34-e535-4625-802c-e2bbdf357a84)
 
@@ -21,24 +20,36 @@ The Ready-Made Garment (RMG) industry operates in a highly competitive and dynam
 - <a href= "https://github.com/sumiya-sadiya-analyst/Excel_Project-RMG_Analysis/blob/main/Ready-Made%20Garments%20Dashboard%20Analysis.xlsx">Dataset</a>
   
 ## Questions
-
-
-## Main data
-![main data](https://github.com/user-attachments/assets/d3dfe695-1530-4c8c-9da8-077b853d67b1)
+![Screenshot 2025-02-03 201027](https://github.com/user-attachments/assets/9d8576f0-a0d9-492b-b932-f5ad30e3e2d1)
 
 ## Process
 - Verified data for any missing values.
 - Made sure data is consistent and clean with respective data type, data format and values used.
 - Created pivot tables according to the queries.
-- Merged all pivot tables into three dashboards.
-- Applied slicers to interact data dynamically  
+- Merged all pivot tables into two dashboard Pages.
+- Applied slicers to interact data dynamically.  
 
 ## Dashboards 
-  #### Price Analysis
+  #### Performance Analysis
+  ![image](https://github.com/user-attachments/assets/afe669cf-8455-42d4-a1c5-9925ed1c58ef)
 
-  #### Room type Analysis
-
-  #### Location Analysis
-
+  #### Item Analysis
+  ![image](https://github.com/user-attachments/assets/96c67cb7-65e3-4431-904d-9efab22b08af)
 
 ## Insights
+
+### Strengths
+- Suggesting a stronger focus on international markets (Export Dominates).
+- A.J. Super Garments Ltd. (21 Export orders) and Nassa Basics Ltd. (8 Export orders) are leading in export-oriented sales.
+### Weaknesses
+- Changes in customer demands.
+- Recession in key export markets.
+- Reduced consumer spending could lead to fewer orders. 
+- Inconsistent quality or delays in deliveries can discourage customers from placing larger orders. 
+### Opportunities
+- Introduce new designs, fabric technologies, and customizable solutions to attract more customers and increase order sizes (Enhance Product Diversification). 
+- Work closely with smaller clients to understand their needs, provide tailored solutions, and foster long-term partnerships (Focus on Customer Relationships).
+
+### Threats
+Product differentiation and operational efficiency Problem.
+
