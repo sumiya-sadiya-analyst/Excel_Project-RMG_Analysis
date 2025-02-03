@@ -38,18 +38,17 @@ The Ready-Made Garment (RMG) industry operates in a highly competitive and dynam
 
 ## Insights
 
-### Strengths
+#### Strengths
 - Suggesting a stronger focus on international markets (Export Dominates).
 - A.J. Super Garments Ltd. (21 Export orders) and Nassa Basics Ltd. (8 Export orders) are leading in export-oriented sales.
-### Weaknesses
-- Changes in customer demands.
+#### Weaknesses
 - Recession in key export markets.
 - Reduced consumer spending could lead to fewer orders. 
 - Inconsistent quality or delays in deliveries can discourage customers from placing larger orders. 
-### Opportunities
+#### Opportunities
 - Introduce new designs, fabric technologies, and customizable solutions to attract more customers and increase order sizes (Enhance Product Diversification). 
 - Work closely with smaller clients to understand their needs, provide tailored solutions, and foster long-term partnerships (Focus on Customer Relationships).
 
-### Threats
-Product differentiation and operational efficiency Problem.
+#### Threats
+- Product differentiation and operational efficiency Problem.
 
