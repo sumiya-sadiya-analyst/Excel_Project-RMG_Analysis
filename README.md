@@ -17,7 +17,7 @@ The Ready-Made Garment (RMG) industry operates in a highly competitive and dynam
 
 
 ## Dataset used
-- <a href= ""> Download Dataset</a>
+- <a href= "![Dataset](https://github.com/user-attachments/assets/3d8dee6b-fb3f-43d7-ab1e-7edd6e893126)"> Rows 9426 Columns 14 </a>
  
 ## Questions
 ![Screenshot 2025-02-03 201027](https://github.com/user-attachments/assets/9d8576f0-a0d9-492b-b932-f5ad30e3e2d1)
