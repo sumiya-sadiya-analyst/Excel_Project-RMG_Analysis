@@ -12,14 +12,8 @@ The Ready-Made Garment (RMG) industry operates in a highly competitive and dynam
 -Inventory and stock management
 - Order fulfillment and shipment delays
 - Dependency on few customers
-
 ![image](https://github.com/user-attachments/assets/def98e34-e535-4625-802c-e2bbdf357a84)
-
-
-## Dataset used
-- <a href= "![Dataset](https://github.com/user-attachments/assets/3d8dee6b-fb3f-43d7-ab1e-7edd6e893126)"> Rows 9426 Columns 14 </a>
- 
-## Questions
+ ## Questions
 ![Screenshot 2025-02-03 201027](https://github.com/user-attachments/assets/9d8576f0-a0d9-492b-b932-f5ad30e3e2d1)
 
 ## Process
